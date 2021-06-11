@@ -1,4 +1,20 @@
 # To-Do-List
+
+To-Do-List
+To-Do list is a simple desktop application to save Your daily tasks.
+
+Features
+Login/Registration
+Add new task
+Edit task
+show all task
+Delete single task
+
+Technologies used:
+Java
+MySQL
+
+
 ![SignUpForm1](https://user-images.githubusercontent.com/75005739/116549396-0ba88b80-a913-11eb-97ef-1c55de973bde.png)
 ![SignUpForm2](https://user-images.githubusercontent.com/75005739/116549402-0e0ae580-a913-11eb-901a-920b8301f854.png)
 ![SignUpForm3](https://user-images.githubusercontent.com/75005739/116549404-0fd4a900-a913-11eb-8e21-3d9f76dfe9b3.png)
